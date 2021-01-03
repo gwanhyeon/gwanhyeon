@@ -6,4 +6,4 @@
 ### Hi there 👋
 - 📫 How to reach me: visit [Github IT Blog](https://gwanhyeon.github.io/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gwanhyeon&show_icons=true&theme=vision-friendly-dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gwanhyeon&show_icons=true&theme=highcontrast)
