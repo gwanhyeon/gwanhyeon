@@ -1,1 +1,1 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gwanhyeon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gwanhyeon&show_icons=true&theme=radical)
