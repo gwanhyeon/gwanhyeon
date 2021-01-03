@@ -7,4 +7,3 @@
 - 📫 How to reach me: visit [Github IT Blog](https://gwanhyeon.github.io/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gwanhyeon&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwanhyeon&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
